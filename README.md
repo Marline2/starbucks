@@ -1,5 +1,5 @@
-# Starbucks Hompage Clone Page 
-## 스타벅스 홈페이지 클론 코딩 페이지
+# Starbucks Clone Hompage 
+## 스타벅스 클론 코딩 페이지
 
 아래의 사이트를 참고하여 만들었습니다.  
 > [박영웅님의 스타벅스 랜딩 페이지(+로그인) 예제](https://github.com/ParkYoungWoong/starbucks-vanilla-app)
